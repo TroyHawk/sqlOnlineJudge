@@ -1,0 +1,4 @@
+
+
+
+rs = {'success': False, 'score': 10, 'total_score': 25, 'execution_time': 0.127912, 'error_message': None, 'test_case_results': [{'test_case_id': 1, 'success': True, 'execution_time': 0.010432, 'error_message': None, 'user_result': [{'id': 1, 'name': 'Alice', 'age': 21}, {'id': 2, 'name': 'Bob', 'age': 25}], 'expected_result': [{'id': 1, 'name': 'Alice', 'age': 21}, {'id': 2, 'name': 'Bob', 'age': 25}]}, {'test_case_id': 2, 'success': False, 'execution_time': 0.004439, 'error_message': 'Result does not match expected output', 'user_result': [{'id': 1, 'name': 'Alice', 'age': 21}, {'id': 2, 'name': 'Bob', 'age': 25}], 'expected_result': [{'total': Decimal('301.25')}]}]}
